@@ -1,0 +1,72 @@
+.body{
+    background-color: rgb(186, 211, 248);
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(60, 89, 111);
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.linkGoles{
+    width: 300px;
+    height: 600px;
+    background-color: rgb(60, 89, 111);
+}
+li{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.Muro{
+    width: 700px;
+    height: 200px;
+    display: flex;
+    margin-left: 400px;
+    margin-top: -600px;
+    background-color: rgb(186, 211, 248);
+    flex-direction: column;
+}
+footer{
+    margin-top: 250px;
+}
+.textomuro{
+    height:120px;
+    background-color: rgb(186, 211, 248);
+    margin-bottom: 25px;
+}
+.btnPublicar{
+    width: 100px;
+    background-color: rgb(121, 121, 233);
+    height: 25px;
+}
+.publicaciones{
+    background-color: rgb(186, 211, 248);
+    width: 700px;
+    height: 800px;
+    margin-left: 400px;
+    margin-top: 0;
+    border: solid 3px  rgb(121, 121, 233);
+    overflow-y: auto;
+}
+span{
+    font-size: large;
+    font-family: cursive;
+    font-style: italic;
+    margin-left: 250px;
+}
+.cuadroPublicaciones{
+    background-color: rgb(141, 181, 241);
+    width: 90%;
+    height: 150px;
+    border: solid 2px black;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: cursive;
+    font-size: larger;
+    font-style: oblique;
+}
